@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Global değişken örnekleri-836\Global değişken örnekleri-836\bin\Debug\Global değişken örnekleri-836.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Global değişken örnekleri-836\Global değişken örnekleri-836\bin\Debug\Global değişken örnekleri-836.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Global değişken örnekleri-836\Global değişken örnekleri-836\bin\Debug\Global değişken örnekleri-836.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Global değişken örnekleri-836\Global değişken örnekleri-836\obj\Debug\Global değişken örnekleri-836.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Global değişken örnekleri-836\Global değişken örnekleri-836\obj\Debug\Global değişken örnekleri-836.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Global değişken örnekleri-836\Global değişken örnekleri-836\obj\Debug\Global_değişken_örnekleri_836.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Global değişken örnekleri-836\Global değişken örnekleri-836\obj\Debug\Global_değişken_örnekleri_836.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Global değişken örnekleri-836\Global değişken örnekleri-836\obj\Debug\Global değişken örnekleri-836.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Global değişken örnekleri-836\Global değişken örnekleri-836\obj\Debug\Global değişken örnekleri-836.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Global değişken örnekleri-836\Global değişken örnekleri-836\obj\Debug\Global değişken örnekleri-836.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Global değişken örnekleri-836\Global değişken örnekleri-836\obj\Debug\Global değişken örnekleri-836.pdb
